@@ -1,4 +1,4 @@
-from copilot_workshop import sort_string_by_frequency
+from code import sort_string_by_frequency
 
 def test_sort_string_by_frequency():
     # Test case 1: Empty string
